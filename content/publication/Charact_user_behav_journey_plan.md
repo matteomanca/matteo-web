@@ -1,6 +1,6 @@
 +++
-title = "Behavioral data mining to produce novel and serendipitous friend recommendations in a social bookmarking system."
-date = "2018-08-01"
+title = "Characterizing user behavior in journey planning."
+date = "2018-01-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
