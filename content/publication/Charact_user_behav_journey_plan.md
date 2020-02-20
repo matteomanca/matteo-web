@@ -1,6 +1,6 @@
 +++
 title = "Characterizing user behavior in journey planning."
-date = "2018-01-29"
+date = "2020-01-29"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
