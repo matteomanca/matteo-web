@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research data scientist
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Eurecat
-  url: "https://eurecat.org"
+- name: NTENT
+  url: "https://ntent.com"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My main activities are related to the analysis of digital trace data and to the application of computation methods to study social phenomena.
@@ -23,7 +23,8 @@ bio: My main activities are related to the analysis of digital trace data and to
 interests:
 - Data Mining
 - Recommender systems
-- Computational Social Science
+- Machine learning
+- Ranking algorithms
 
 education:
   courses:
@@ -74,6 +75,8 @@ user_groups:
 - Visitors
 ---
 
-Matteo Manca is currently Research Data Scientist at Eurecat, in the Data Science and Big Data Analytics research group. He mainly focuses on the analysis of digital trace data and in the application of data mining and computation methods in order to study social phenomena and to improve customers business.
+
+Matteo Manca is currently Data Scientist at NTENT. He mainly focuses on the analysis of digital trace data, the application of data mining and computational methods to infer behavioural patterns and in the implementation of machine learning models.
 
 In 2014 he obtained his PhD in computer science from the University of Cagliari with a thesis focused on the study and implementation of recommendation approaches for the social media domain. He has worked as intern in CureMetrix (working remotely) , San Diego (CA) – USA and in the Web mining group at Yahoo! Researcher Barcelona.
+ 
