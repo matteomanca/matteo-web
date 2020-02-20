@@ -19,12 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Data Scientist"
+  company = "NTENT"
+  company_url = "https://ntent.com"
+  location = "Barcelona (Spain)"
+  date_start = "2019-12-16"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  
+  """
+
+
+[[experience]]
   title = "Senior Research Data Scientist"
   company = "Eurecat, Technology Center of Catalonia"
   company_url = "https://eurecat.org"
   location = "Barcelona (Spain)"
   date_start = "2019-02-01"
-  date_end = ""
+  date_end = "2019-12-01"
   description = """
   Responsibilities include:
   
@@ -132,7 +146,7 @@ date_format = "Jan 2006"
   """
   
   [[experience]]
-  title = "NTERN RESEARCHER"
+  title = "INTERN RESEARCHER"
   company = "Yahoo! Research Barcelona"
   company_url = "https://research.yahoo.com"
   location = "Barcelona (Spain)"
