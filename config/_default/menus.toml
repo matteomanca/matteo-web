@@ -21,7 +21,7 @@
 [[main]]
   name = "Positions"
   url = "#experience"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Publications"
@@ -31,7 +31,7 @@
   [[main]]
     name = "Activities"
     url = "#activities"
-    weight = 20
+    weight = 40
 
 [[main]]
 # name = "Contact"
