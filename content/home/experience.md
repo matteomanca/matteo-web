@@ -28,7 +28,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  
+  * Analysis of digital trace data and query logs
+  * Application of data-mining, computational methods and implementation of machine learning models.
   """
 
 
@@ -42,11 +43,11 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Leading of Work Packages in European Projects.
-  * Participation in Grant proposals (H2020, Internal, etc.).
-  * Principal Data Scientist in multiple private and public projects.
-  * Applying data mining and computational methods to digital trace data.
-  * Implementing predictive models.
+  * Principal Investigator and Work package leader in European Projects.
+  * Participation in Grant proposals (e.g., H2020).
+  * Main Data Scientist in multiple private and public projects.
+  * Application of data mining and computational methods to digital trace data.
+  * Implementation of predictive models.
 
   """
 
