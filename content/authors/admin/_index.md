@@ -76,7 +76,7 @@ user_groups:
 ---
 
 
-Matteo Manca is currently Data Scientist at NTENT. He mainly focuses on the analysis of digital trace data, the application of data mining and computational methods to infer behavioural patterns and in the implementation of machine learning models.
+Matteo Manca is currently Data Scientist at NTENT. He mainly focuses on the analysis of digital trace data, query logs, the application of data mining and computational methods and in the implementation of machine learning models.
 
 In 2014 he obtained his PhD in computer science from the University of Cagliari with a thesis focused on the study and implementation of recommendation approaches for the social media domain. He has worked as intern in CureMetrix (working remotely) , San Diego (CA) – USA and in the Web mining group at Yahoo! Researcher Barcelona.
  
