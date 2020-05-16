@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Recent Experience"
 subtitle = ""
 
 # Date format for experience
@@ -79,85 +79,85 @@ date_format = "Jan 2006"
   * Implementing predictive models.
   """
   
-[[experience]]
-  title = "COMPUTER SCIENCE CONSULTANT AND SOFTWARE ENGINEER"
-  company = "Rare Diseases Center of Sardinia - Ospedale Pediatrico Microcitemico"
-  company_url = "http://www.malattieraresardegna.it/"
-  location = "Cagliari (Italy)"
-  date_start = "2010-11-29"
-  date_end = "2015-09-01"
-  description = """
+#[[experience]]
+#  title = "COMPUTER SCIENCE CONSULTANT AND SOFTWARE ENGINEER"
+#  company = "Rare Diseases Center of Sardinia - Ospedale Pediatrico Microcitemico"
+#  company_url = "http://www.malattieraresardegna.it/"
+#  location = "Cagliari (Italy)"
+#  date_start = "2010-11-29"
+#  date_end = "2015-09-01"
+#  description = """
   
-  * Design and development of clinical tools, web applications and iOS applications in the Rare Disease area.
-  * Management and maintenance of several client systems and linux servers (Xen virtualization, CentOS, Apache2, mysql, etc.
-  """
+#  * Design and development of clinical tools, web applications and iOS applications in the Rare Disease area.
+#  * Management and maintenance of several client systems and linux servers (Xen virtualization, CentOS, Apache2, mysql, etc.
+#  """
   
   
-[[experience]]
-  title = "INTERN DATA SCIENTIST (*WORKING REMOTELY*)"
-  company = "CureMetrix"
-  company_url = "http://www.curemetrix.com"
-  location = "San Diego (USA)"
-  date_start = "2014-06-01"
-  date_end = "2014-11-01"
-  description = """
+#[[experience]]
+#  title = "INTERN DATA SCIENTIST (*WORKING REMOTELY*)"
+#  company = "CureMetrix"
+#  company_url = "http://www.curemetrix.com"
+#  location = "San Diego (USA)"
+#  date_start = "2014-06-01"
+#  date_end = "2014-11-01"
+#  description = """
   
-  * Development of a C++ multi-platform framework (based on DCMTK3.6.1 library) for the extraction and processing of DICOM image data.
-  * Data scientist activities such as data preprocessing, preparation, re-formatting and Feature extraction of medical imaging data.
+#  * Development of a C++ multi-platform framework (based on DCMTK3.6.1 library) for the extraction and processing of DICOM image data.
+#  * Data scientist activities such as data preprocessing, preparation, re-formatting and Feature extraction of medical imaging data.
   
-  """
+#  """
 
-[[experience]]
-  title = "SOFTWARE DEVELOPER"
-  company = "3C Lab Sardegna Ricerche"
-  company_url = "https://www.sardegnaricerche.it/index.php?xsl=370&s=38143&v=2&c=3236&sc=&o=1&t=3"
-  location = "Pula (Italy)"
-  date_start = "2010-08-01"
-  date_end = "2010-11-01"
-  description = """
+#[[experience]]
+#  title = "SOFTWARE DEVELOPER"
+#  company = "3C Lab Sardegna Ricerche"
+#  company_url = "https://www.sardegnaricerche.it/index.php?xsl=370&s=38143&v=2&c=3236&sc=&o=1&t=3"
+#  location = "Pula (Italy)"
+#  date_start = "2010-08-01"
+#  date_end = "2010-11-01"
+#  description = """
   
-  Development of web applications; Program languages: php, javascript; webserver:apache; framework codeigniter; library:jQuery.
+#  Development of web applications; Program languages: php, javascript; webserver:apache; framework codeigniter; library:jQuery.
   
-  """
+#  """
   
-[[experience]]
-  title = "INTERN SOFTWARE DEVELOPER"
-  company = "IBM Italy Spa"
-  company_url = "https://www.ibm.com/planetwide/it/"
-  location = "Rome (Italy)"
-  date_start = "2010-04-01"
-  date_end = "2010-07-01"
-  description = """
+#[[experience]]
+#  title = "INTERN SOFTWARE DEVELOPER"
+#  company = "IBM Italy Spa"
+#  company_url = "https://www.ibm.com/planetwide/it/"
+#  location = "Rome (Italy)"
+#  date_start = "2010-04-01"
+#  date_end = "2010-07-01"
+#  description = """
   
-  Development of a software component for remote execution of management tasks in distributed environments (Program language: Java).
+#  Development of a software component for remote execution of management tasks in distributed environments (Program language: Java).
   
-  """
+#  """
 
-[[experience]]
-  title = "SOFTWARE DEVELOPER"
-  company = "Consulmedia srl"
-  company_url = "http://www.consulmedia.it/"
-  location = "Oristano (Italy)"
-  date_start = "2009-09-01"
-  date_end = "2010-03-01"
-  description = """
+#[[experience]]
+#  title = "SOFTWARE DEVELOPER"
+#  company = "Consulmedia srl"
+#  company_url = "http://www.consulmedia.it/"
+#  location = "Oristano (Italy)"
+#  date_start = "2009-09-01"
+#  date_end = "2010-03-01"
+#  description = """
   
-  Design and development of web applications and client applications. Program language: Java; webserver: Tomcat.
+#  Design and development of web applications and client applications. Program language: Java; webserver: Tomcat.
   
-  """
+#  """
   
-  [[experience]]
-  title = "INTERN RESEARCHER"
-  company = "Yahoo! Research Barcelona"
-  company_url = "https://research.yahoo.com"
-  location = "Barcelona (Spain)"
-  date_start = "2009-01-01"
-  date_end = "2009-06-30"
-  description = """
+#  [[experience]]
+#  title = "INTERN RESEARCHER"
+#  company = "Yahoo! Research Barcelona"
+#  company_url = "https://research.yahoo.com"
+#  location = "Barcelona (Spain)"
+#  date_start = "2009-01-01"
+#  date_end = "2009-06-30"
+#  description = """
   
-  Research activities in the Web mining group (Supervisors: Aristide Gionis and Debora Donato)
+#  Research activities in the Web mining group (Supervisors: Aristide Gionis and Debora Donato)
   
-  """
+#  """
 
     
 +++
