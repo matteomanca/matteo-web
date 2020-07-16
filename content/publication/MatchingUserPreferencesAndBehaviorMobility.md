@@ -1,10 +1,10 @@
 +++
-title = "Characterizing user behavior in journey planning."
-date = "2020-01-29"
+title = "Matching User Preferences and Behavior for Mobility"
+date = "2020-07-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
-authors = ["Silvia Basile", "Cristian Consonni", "Ludovico Boratto", "**Matteo Manca**"]
+authors = ["Silvia Basile", "Cristian Consonni", "**Matteo Manca**", "Ludovico Boratto"]
 
 
 # Publication type.
@@ -16,7 +16,7 @@ authors = ["Silvia Basile", "Cristian Consonni", "Ludovico Boratto", "**Matteo M
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "ACM Hypertext 2020"
