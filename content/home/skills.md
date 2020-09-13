@@ -20,7 +20,7 @@ subtitle = ""
 
 +++
 Data Science
-- MachineLearningFrameworks(Scikit-learn,H2O)
+- Machine Learning Frameworks (Scikit-learn, H2O)
 - Deep Learning Frameworks (Keras)
 - Data Analysis and Visualization Libraries (Pandas, NumPy, SciPy, Matplotlib, Seaborn, GGplot) 
 - Relational Databases and Big Data (Mysql, PostgreSQL, Sqlite, PySpark)
