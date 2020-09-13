@@ -26,13 +26,13 @@ Data Science
 - Relational Databases and Big Data (Mysql, PostgreSQL, Sqlite, PySpark)
 - Geographical Analysis Tools (GeoPandas, Folium, Leaflet, Carto)
   
-+++
+
 Programming
 - Python (libraries scikit-learn, Pandas, Numpy, etc) 
 - Pyspark, R, SAS, SQL (mysql, Postgres, SQLite) bash scripting 
 - Knowledge of Scala, Matlab, C, C++, Objective-C, Java, Javascript (JQuery), PHP, HTML and CSS LaTeX
 
-+++
+
 Soft Skills
 - communicate results (technical and non-technical audiences)
 - Problem-solving attitude
