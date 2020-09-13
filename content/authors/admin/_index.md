@@ -63,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: https://www.dropbox.com/s/w45k6ryju55jn68/Resume_Matteo_Manca.pdf?dl=1
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
